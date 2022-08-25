@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/daniel-kravtsov-public/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/daniel-kravtsov-public/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
