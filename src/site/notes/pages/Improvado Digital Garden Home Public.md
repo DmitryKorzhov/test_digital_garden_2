@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pages/improvado-digital-garden-home-public/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pages/improvado-digital-garden-home-public/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
