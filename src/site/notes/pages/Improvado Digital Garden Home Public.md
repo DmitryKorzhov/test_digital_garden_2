@@ -5,11 +5,12 @@
 
 
 
-## All 
+## All publc documents 
 
 | File                                                                                          |
 | --------------------------------------------------------------------------------------------- |
 | [[pages/Daniel Kravtsov public.md\|Daniel Kravtsov public]]                                   |
 | [[pages/How to ask for VC_investor introduction.md\|How to ask for VC_investor introduction]] |
 | [[pages/Improvado public.md\|Improvado public]]                                               |
+| [[pages/Minto Piramid principle.md\|Minto Piramid principle]]                                 |
 
