@@ -3,11 +3,6 @@
 ---
 
 
-- [x] [[pages/Natalia Strebkova|Natalia Strebkova]]  please check english in all text bellow. 
-	- [x] Tag [[pages/Dmitry Korzhov|Dmitry Korzhov]], then you end this task please [[pages/Natalia Strebkova|Natalia Strebkova]]
-	- [ ] [[pages/Dmitry Korzhov|Dmitry Korzhov]] [[pages/Daniel Kravtsov|Daniel Kravtsov]] done 
-	- [ ] by [[pages/Dmitry Korzhov|Dmitry Korzhov]]  [due:: 2022-09-01] | Me too, I changed it on all pages [[pages/Daniel Kravtsov|Daniel Kravtsov]]
-
 ## New engeniring managers announcment and responsobilities 
 
 **Hi Team, 
