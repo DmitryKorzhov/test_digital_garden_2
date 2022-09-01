@@ -4,7 +4,7 @@
 
 ## New engeniring managers announcment and responsobilities 
 
-**Hi Team, 
+**Hi Team,** 
 
 **I want to announce some big hiring we made and Engineering re-org.** 
 
