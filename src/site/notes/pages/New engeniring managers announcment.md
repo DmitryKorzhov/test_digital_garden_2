@@ -3,7 +3,7 @@
 ---
 
 
-- [ ] [[pages/Natalia Strebkova|Natalia Strebkova]]  please check english in all text bellow. 
+- [ ] [[pages/Natalia Strebkova|Natalia Strebkova]]  please check english in all text bellow
 
 ## New engeniring managers announcment and responsobilities 
 
