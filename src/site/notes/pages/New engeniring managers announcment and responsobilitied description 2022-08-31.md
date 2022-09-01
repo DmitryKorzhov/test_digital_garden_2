@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/pages/new-engeniring-managers-announcment-and-responsobilitied-description-2022-08-31/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
-New engeniring managers announcment and responsobilitied description [[pages/2022-08-31|2022-08-31]]
+## New engeniring managers announcment and responsobilities 
 - Hi Team, 
 	 - I want to announce some big hiring we made and Engeniring re-org. 
 	 - We hired [[pages/Michurin Konstantin|Michurin Konstantin]] and [[pages/Vitaly Kustov|Vitaly Kustov]] as Engeniring mangers. 
