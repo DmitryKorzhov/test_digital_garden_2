@@ -2,14 +2,13 @@
 {"dg-publish":true,"permalink":"/pages/new-engeniring-managers-announcment/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
 ## New engeniring managers announcment and responsobilities 
 
 **Hi Team, 
 
-**I want to announce some big hiring we made and Engineering re-org. 
+**I want to announce some big hiring we made and Engineering re-org.** 
 
-**We hired [[pages/Michurin Konstantin|Michurin Konstantin]] and [[pages/Vitaly Kustov|Vitaly Kustov]] as Engineering managers. 
+**We hired [[pages/Michurin Konstantin|Michurin Konstantin]] and [[pages/Vitaly Kustov|Vitaly Kustov]] as Engineering managers.** 
 
 - Below you can read info about them and how we split Engeniring managers' responsibilities among engineering managers.
 	 - [[pages/Michurin Konstantin|Michurin Konstantin]] 
@@ -18,7 +17,7 @@
 	- [[pages/Vitaly Kustov|Vitaly Kustov]]
 		 - Hi all! 
 		 - My name is Vitaly. I’ve been developing software for 12 years. I have the experience of successfully running B2B products, web, and mobile applications, and managing a team of engineers. I’ve been living in Mexico since 2018. Love to travel through the country. Visited 22 of 32 states.
-	- **Here is how we see Engeniring management responsibilities splited:
+	- **Here is how we see Engeniring management responsibilities splited:**
 		- [[pages/Michurin Konstantin|Michurin Konstantin]]
 			- HR
 				- Recruiting, Hiring/ Firing,
@@ -48,6 +47,6 @@
 				- MetriQL - cube dev for our Front.
 			- Engineering Analytics
 			- Engineering processes
-			- Product and Engineering sync
-			
-**You can read more here [[pages/Engineering management|Engineering management]]
+			- Product and Engineering sync 
+
+**You can read more here [[pages/Engineering management|Engineering management]]**
