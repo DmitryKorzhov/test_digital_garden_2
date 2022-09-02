@@ -21,6 +21,6 @@ role:: Director of Engeniring  America
 	- Hi all! My name is Vitaly. I’ve been developing software for 12 years. I have the experience of successfully running B2B products, web, and mobile applications, and managing a team of engineers. I’ve been living in Mexico since 2018. Love to travel through the country. Visited 22 of 32 states.
 
 - employee journey:
-	- [[privat/Vitaly Kustov recruiting|Vitaly Kustov recruiting]]
-	- [[privat/Vitaliy Kustov offer|Vitaliy Kustov offer]]
+	- [[Vitaly Kustov recruiting|Vitaly Kustov recruiting]]
+	- [[Vitaliy Kustov offer|Vitaliy Kustov offer]]
 	- [[pages/Vitaly Kustov onboarding|Vitaly Kustov onboarding]]
