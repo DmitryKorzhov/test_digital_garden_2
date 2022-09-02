@@ -20,4 +20,4 @@ email:: vitalymikhnevich@improvado.io
 	- Product and Engineering sync
 
 
-- [[privat/Vitaliy Mikhnevitch Daniel 1-1|Vitaliy Mikhnevitch Daniel 1-1]]
+- [[Vitaliy Mikhnevitch Daniel 1-1|Vitaliy Mikhnevitch Daniel 1-1]]
