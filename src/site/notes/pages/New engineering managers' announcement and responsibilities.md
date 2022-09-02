@@ -24,7 +24,7 @@
 				- Salaries, Equity
 				- Carrier path
 			- [[pages/QA Team|QA Team]] 
-				- Connect with business and strategy and engineering 
+			- Connect with business and strategy and engineering 
 				- Hiring, cost plan
 				- Strategy calls
 				- OKR design, OKR tracking
@@ -44,7 +44,8 @@
 			- Onboarding/ documentation
 			- Choose a tech solution, and be sure all team leads follow best practices 
 			- Examples:
-				- MetriQL - cube dev for our Front.
+				- [[pages/MetriQL|MetriQL]] - cube dev for our Front.
+				- [[pages/Airbyte|Airbyte]]  implementation
 			- Engineering Analytics
 			- Engineering processes
 			- Product and Engineering sync 
