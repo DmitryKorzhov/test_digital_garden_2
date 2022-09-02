@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/pages/new-engineering-managers-announcement-and-responsibilities/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-## ## New engineering managers' announcement and responsibilities
+## New engineering managers' announcement and responsibilities
 
 **Hi Team,** 
 
@@ -50,6 +50,3 @@
 			- Product and Engineering sync 
 
 - **You can read more here [[pages/Engineering management|Engineering management]]**
-
-
-- New data
