@@ -31,3 +31,7 @@ linkedin_url::  [https://www.linkedin.com/in/konstantin-michurin/](https://www.l
 - Employee journey:
 	- [[pages/Michurin Konstantin recruiting|Michurin Konstantin recruiting]]
 	- [[pages/Michurin Konstantin Onboarding|Michurin Konstantin Onboarding]]
+
+
+
+- [x] Problems with teams / their expirience and skills. Currently: 3 Directors, 5 team leads, 2 senior, 3 middle, 13 junior [[pages/discuss|discuss]][[pages/R&D strategy team|R&D strategy team]] [completion:: 2022-09-01]
