@@ -15,6 +15,7 @@ email:: vitalymikhnevich@improvado.io
 	- Choose a tech solution, and be sure all team leads follow best practices 
 	- Examples:
 		- MetriQL - cube dev for our Front.
+		- [[pages/Airbyte|Airbyte]]  implementation
 	- Engineering Analytics 
 	- Engineering processes 
 	- Product and Engineering sync
